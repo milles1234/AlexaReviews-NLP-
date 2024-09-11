@@ -1,0 +1,10 @@
+pandas 
+numpy 
+matplotlib
+seaborn
+spacy
+plotly
+dvc
+flask 
+joblib
+nltk
